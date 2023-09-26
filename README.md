@@ -73,7 +73,7 @@
 ![07](https://github.com/Matthew-Requejo559/Windows-7-clear-SAM-credentials/assets/136190678/500e1c3d-de46-4647-a71c-ca82a2bd980a)
 
 
-### Me selecting the Amy account to edit it
+### Me selecting the Amy account to edit it. Here you can see the full name is Karma.
 
 ![08](https://github.com/Matthew-Requejo559/Windows-7-clear-SAM-credentials/assets/136190678/6835fef1-6777-4c7c-a876-7a5e581489c3)
 
